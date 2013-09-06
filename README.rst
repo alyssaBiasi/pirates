@@ -10,6 +10,9 @@ Pirates
 
 Player 1 controls
 -----------------
+
+::
+
 	w = up
 	s = down
 	a = left
@@ -20,6 +23,9 @@ Player 1 controls
 
 Player 2 controls
 -----------------
+
+::
+
 	up arrow = up
 	down arrow = down
 	left arrow = left
@@ -34,6 +40,9 @@ Player 2 controls
 	
 Functionality
 -------------
+
+::
+
 	v = toggle axes
 	b = toggle wireframe
 	n = toggle normals

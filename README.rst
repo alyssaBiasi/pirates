@@ -2,8 +2,8 @@
 Pirates
 -------
 
-.. image:: Pirate\ Game.png
-	:scale: 90%
+.. image:: PirateGameScreenShot.png
+	:scale: 70%
 	:align: center
 	:alt: Game Screenshot.
 
